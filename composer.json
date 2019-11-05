@@ -1,0 +1,11 @@
+{
+  "name": "themreza/opencart-composer-extension-test",
+  "type": "opencart-extension",
+  "description": "A test Composer package for installing a simple extension in OpenCart by automatically copying the files.",
+  "keywords": ["opencart", "extension", "test"],
+  "homepage": "https://tomaraei.com",
+  "license": "MIT",
+  "require": {
+    "php": ">=5.6.0"
+  }
+}
